@@ -13,7 +13,7 @@ Added a calculated column Week in the dim_date table using the WEEKNUM formula.
 Created a calculated column Day Type to differentiate weekdays and weekends.
 Applied transformations to link the data across tables for a unified analysis.
 
-** Key Metrics and Measures**
+**Key Metrics and Measures**
 
 Developed various measures to analyze performance, including:
 
